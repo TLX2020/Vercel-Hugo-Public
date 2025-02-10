@@ -395,18 +395,7 @@
       url: https://github.com/alexpate/awesome-design-systems
       logo: awesome_design_systems.png     
 
-- taxonomy: 日语资讯
-  icon: far fa-newspaper
-  links:
-    - title: 人民網日本語版
-      url: http://j.people.com.cn/
-      logo: rmw.png
-    - title: NHK ラジオニュース
-      url: https://www.nhk.or.jp/radionews/
-      logo: https://api.iowen.cn/favicon/www.nhk.or.jp.png
-    - title: 日テレNEWS24
-      url: https://www.news24.jp/index.html
-      logo: https://api.iowen.cn/favicon/www.news24.jp.png
+
 
 #- taxonomy: 
 #  icon: far fa-star
